@@ -222,7 +222,7 @@ With this project, I practiced:
 ## Author
 
 **Sueda Kazan**  
-Computer Engineer | Data Science & Machine Learning Enthusiast  
+Data Science | Machine Learning | CRM Analytics | A/B Testing 
 
 🔗 GitHub: https://github.com/suedakzn  
 🔗 Kaggle: https://www.kaggle.com/suedakazan  
