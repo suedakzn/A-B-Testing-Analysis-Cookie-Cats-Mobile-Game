@@ -219,6 +219,16 @@ With this project, I practiced:
 - turning statistical findings into business recommendations
 
 ---
+## Author
+
+**Sueda Kazan**  
+Computer Engineer | Data Science & Machine Learning Enthusiast  
+
+🔗 GitHub: https://github.com/suedakzn  
+🔗 Kaggle: https://www.kaggle.com/suedakazan  
+🔗 LinkedIn: https://www.linkedin.com/in/sueda-kazan/
+
+---
 
 ## Project Structure
 
@@ -228,3 +238,5 @@ ab-testing-cookie-cats/
 ├── a-b-testing-on-mobile-game-retention-cookie-cats.ipynb
 ├── cookie_cats.csv
 └── README.md
+
+
