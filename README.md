@@ -228,8 +228,8 @@ Data Science | Machine Learning | CRM Analytics | A/B Testing
 🔗 Kaggle: https://www.kaggle.com/suedakazan  
 🔗 LinkedIn: https://www.linkedin.com/in/sueda-kazan/
 
-Bu proje hakkında detaylı anlatımın yer aldığı Medium yazıma buradan ulaşabilirsiniz:
-🔗 [Medium yazısını okumak için tıklayın](https://medium.com/@suedakzn/a-b-testing-analizi-cookie-cats-veri-seti-ile-oyuncu-davranışı-üzerine-17b31f76831d)
+You can read the Medium article about this project here:
+🔗 [Read the Medium article](https://medium.com/@suedakzn/a-b-testing-analizi-cookie-cats-veri-seti-ile-oyuncu-davranışı-üzerine-17b31f76831d)
 
 ---
 
